@@ -9,7 +9,7 @@
 
 - 🚀 **Passionate Software Engineer| Turning Ideas into Reality | Embracing the Art of Code.**
 
-- 🌱 **I’m Currently Working on Azure Devops.**
+- 🌱 **I’m Currently Working on Devops.**
 
 - 👯 **I’m 👀 to collaborate on Open-Source Contributions.**
 
