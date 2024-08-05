@@ -1,4 +1,11 @@
 # 💫 About Me:
+<h1 align="center">
+<img align="center" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=70&lines=Hello-World...+👋,+This+is+Mahender;(+Maahi....!+);An+Open+Source+Contributor+☀;Programmer+💻;Developer+📱;Problem+Solver+🕵;">
+</p>
+</h1>
+<h2 align="center">I'm a Full Stack Developer!!</h2>
 I'm currently learning DevOps with Aws and Azure.
 
 
